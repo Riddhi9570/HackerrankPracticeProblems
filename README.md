@@ -7,7 +7,7 @@
 - If you are interested in adding more problem solutions in SQL or have a solution in a different language, feel free to make a pull request.
 - If it was helpful please press the star.
 
-<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg">
+<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
 
 
 
