@@ -40,3 +40,4 @@
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/3.%20AGGREGATION/01.Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Score: 10 | Easy
     04. Basic Join
         - Asian Population | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/01.%20Asian%20Population.sql) | Score: 10 | Easy
+        - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/02.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10 | Easy
