@@ -36,7 +36,7 @@
 
     02. Advanced Select
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/01.Type%20of%20Triangle.sql) | Score: 20 | Easy
-        - The pads | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/02.%20The%20PADS.sql) | Score: 30 | Medium
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/02.%20The%20PADS.sql) | Score: 30 | Medium
         - Occupations | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/03.%20Occupations.sql) | Score: 30 | Medium
         - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/04.%20Binary%20Tree%20Nodes.sql) | Score: 30 | Medium
         - New Companies | [Problem]( https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/05.%20New%20Companies.sql) | Score:30 | Medium
