@@ -14,10 +14,10 @@
 <details>
 <summary>SQL</summary>	
 	
-* [Basic Select](basic-select)
-* [Advanced Select](advanced-select)
-* [Aggregation](aggregation)
-* [Basic Join](basic-join)
+* [Basic Select](#basic-select)
+* [Advanced Select](#advanced-select)
+* [Aggregation](#aggregation)
+* [Basic Join](#basic-join)
 	
 </details>
 
