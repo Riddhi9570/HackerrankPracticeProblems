@@ -79,5 +79,6 @@
 ### Basic Join
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/01.%20Asian%20Population.sql) | 10 | Easy |
-| 02. | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/02.%20Average%20Population%20of%20Each%20Continent.sql) | 10 | Easy |
+| 01. | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/01.%20Population%20Census.sql) | 10 | Easy |
+| 02. | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/02.%20African%20Cities.sql) | 10 | Easy |
+| 03. | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/03.%20Average%20Population%20of%20Each%20Continent.sql) | 10 | Easy |
