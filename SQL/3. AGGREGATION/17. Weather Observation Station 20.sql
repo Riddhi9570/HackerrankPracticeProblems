@@ -64,8 +64,8 @@ NOTE:-
     - 'ROUND(a,b)' :- rounds a number 'a' to specified number of decimal places 'b'.
     - AVG() function returns the average value in a set of values.
     - 'FROM' specifies the table or tables to select the data from.
-    - 'AS' is used to give a temporary name to a table or a column in a table for the purpose of a 
-    - 'ORDER BY A' sort the result in ascending order of A.particular query.
+    - 'AS' is used to give a temporary name to a table or a column in a table for the purpose of a particular query.
+    - 'ORDER BY A' sort the result in ascending order of A.
     - Using 'WHERE' clause, we can specify a selection criteria to select the required records from a table.
     - The 'IN' operator allows you to determine if a value matches any value in a list of values. 
     - FLOOR() function is used to return the largest integer value which will be either equal to or less than from a given input number.
