@@ -85,3 +85,5 @@
 | 04. | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/04.%20The%20Report.sql) | 20 | Medium |
 | 05. | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/05.%20Top%20Competitors.sql) | 30 | Medium |
 | 06. | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/06.%20Ollivander's%20Inventory.sql) | 30 | Medium |
+| 07. | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/07.%20Challenges.sql) | 30 | Medium |
+| 08. | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/08.%20Contest%20Leaderboard.sql) | 30 | Medium |
