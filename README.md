@@ -18,6 +18,8 @@
 * [Advanced Select](#advanced-select)
 * [Aggregation](#aggregation)
 * [Basic Join](#basic-join)
+* [Advanced Join](#advanced-join)
+* [Alternative Queries](#alternative-queries)
 	
 </details>
 
@@ -87,3 +89,14 @@
 | 06. | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/06.%20Ollivander's%20Inventory.sql) | 30 | Medium |
 | 07. | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/07.%20Challenges.sql) | 30 | Medium |
 | 08. | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/4.%20BASIC%20JOIN/08.%20Contest%20Leaderboard.sql) | 30 | Medium |
+
+### Advanced Join
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/01.%20SQL%20Project%20Planning.sql) | 40 | Medium |
+
+### Alternative Queries
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/6.%20ALTERNATIVE%20QUERIES/01.%20Draw%20The%20Triangle%201.sql) | 25 | Easy |
+| 02. | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/6.%20ALTERNATIVE%20QUERIES/02.%20Draw%20The%20Triangle%202.sql) | 25 | Easy |
