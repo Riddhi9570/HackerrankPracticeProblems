@@ -63,7 +63,7 @@
 
 <summary> Python </summary>
 
-* [Introduction](#introduction)
+* [Basic](#basic)
 
 </details>
 
@@ -165,4 +165,4 @@
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
-|--|--|--|--|--|
+| 01. | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Python/1.%20BASIC/01.%20Finding%20The%20Percentage.py)| 10 | Easy |
