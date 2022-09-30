@@ -6,7 +6,7 @@
 - This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL, C++, Java or Python.
 - If you are interested in adding more hackerrank problem solutions, feel free to contribute.
 - If you feel this helpful please press the star.
-- If you are a hacktoberfest contributor, claim only one or two issues from this repository for hacktoberfest contribution.
+- If you are a hacktoberfest contributor, claim only one issue at a time from this repository and maximum of total two issues for hacktoberfest contribution.
 - Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
 - Happy Coding 🥳!
 
