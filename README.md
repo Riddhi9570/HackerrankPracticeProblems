@@ -3,16 +3,20 @@
 
 # Hackerrank Practice Problems
 
-- This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL.
-- If you are interested in adding more problem solutions in SQL or have a solution in a different language, feel free to make a pull request.
-- If it was helpful please press the star.
+- This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL, C++, Java or Python.
+- If you are interested in adding more hackerrank problem solutions, feel free to contribute.
+- If you feel this helpful please press the star.
+- If you are a hacktoberfest contributor, claim only one or two issues from this repository for hacktoberfest contribution.
+- Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
+- Happy Coding 🥳!
 
-<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
+<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> <img src="https://img.shields.io/badge/language-JAVA-orange.svg"> <img src="https://img.shields.io/badge/language-C++-orange.svg"> <img src="https://img.shields.io/badge/language-Python-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
 
 ### Topics
 
 <details>
-<summary>SQL</summary>	
+
+<summary> SQL </summary>	
 	
 * [Basic Select](#basic-select)
 * [Advanced Select](#advanced-select)
@@ -21,6 +25,46 @@
 * [Advanced Join](#advanced-join)
 * [Alternative Queries](#alternative-queries)
 	
+</details>
+
+<details>
+
+<summary> C++ </summary>
+
+* [Introduction](#introduction)
+* [Strings](#strings)
+<!--
+* [Classes](#classes)
+* [STL](#stl)
+* [Inheritance](#inheritance)
+* [Debugging](#debugging)
+* [Other Concepts](#other-concepts)
+-->
+
+</details>
+
+<details>
+
+<summary> Java </summary>
+
+* [Introduction](#introduction)
+<!--
+* [Strings](#strings)
+* [BigNumber](#bignumber)
+* [Data Structures](#data-structures)
+* [Object Oriented Programming](#object-oriented-programming)
+* [Exception Handling](#exception-handling)
+* [Advanced](#advanced)
+-->
+
+</details>
+
+<details>
+
+<summary> Python </summary>
+
+* [Introduction](#introduction)
+
 </details>
 
 ## SQL (All the solutions are given in MySQL)
@@ -100,3 +144,25 @@
 |--|--|--|--|--|
 | 01. | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/6.%20ALTERNATIVE%20QUERIES/01.%20Draw%20The%20Triangle%201.sql) | 25 | Easy |
 | 02. | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/6.%20ALTERNATIVE%20QUERIES/02.%20Draw%20The%20Triangle%202.sql) | 25 | Easy |
+
+## C++
+
+### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Strings
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+## Java
+
+### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+## Python
+
+### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
