@@ -64,6 +64,24 @@
 <summary> Python </summary>
 
 * [Introduction](#introduction)
+* [Basic Data Types](#basic-data-types)
+<!--
+* [Strings](#strings)
+* [Sets](#sets)
+* [Math](#math)
+* [Itertools](#itertools)
+* [Collections](#collections)
+* [Date and Time](#date-and-time)
+* [Errors and Exceptions](#errors-and-exceptions)
+* [Classes](#classes)
+* [Built-Ins](#built-ins)
+* [Python Functionals](#python-functionals)
+* [Regex and Parsing](#regex-and-parsing)
+* [XML](#xml)
+* [Closures and Decorators](#closures-and-decorators)
+* [Numpy](#numpy)
+* [Debugging](#debugging)
+-->
 
 </details>
 
@@ -168,5 +186,9 @@
 ## Python
 
 ### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
