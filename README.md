@@ -10,7 +10,7 @@
 - Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
 - Happy Coding 🥳!
 
-<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> <img src="https://img.shields.io/badge/language-JAVA-orange.svg"> <img src="https://img.shields.io/badge/language-C++-orange.svg"> <img src="https://img.shields.io/badge/language-Python-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
+<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> <img src="https://img.shields.io/badge/language-JAVA-orange.svg"> <img src="https://img.shields.io/badge/language-C++-orange.svg"> <img src="https://img.shields.io/badge/language-Python-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Riddhi9570/HackerrankPracticeProblems/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
 
 ### Topics
 
@@ -158,6 +158,10 @@
 ## Java
 
 ### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 
