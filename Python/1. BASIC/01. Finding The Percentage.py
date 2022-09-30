@@ -1,4 +1,4 @@
--- # Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem
+-- # Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 -- # Score: 10
 -- # Difficulty : Easy
 
