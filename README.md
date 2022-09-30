@@ -149,6 +149,7 @@
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
+| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
 |--|--|--|--|--|
 
 ### Strings
