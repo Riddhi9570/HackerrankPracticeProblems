@@ -10,7 +10,7 @@
 - Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
 - Happy Coding 🥳!
 
-<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> <img src="https://img.shields.io/badge/language-JAVA-orange.svg"> <img src="https://img.shields.io/badge/language-C++-orange.svg"> <img src="https://img.shields.io/badge/language-Python-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
+<img src="https://img.shields.io/badge/language-MySQL-orange.svg"> <img src="https://img.shields.io/badge/language-JAVA-orange.svg"> <img src="https://img.shields.io/badge/language-C++-orange.svg"> <img src="https://img.shields.io/badge/language-Python-orange.svg"> [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Riddhi9570/HackerrankPracticeProblems/issues) <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet.svg"> <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet.svg"> ![Profile views](https://gpvc.arturio.dev/Riddhi9570)
 
 ### Topics
 
@@ -63,7 +63,25 @@
 
 <summary> Python </summary>
 
-* [Basic](#basic)
+* [Introduction](#introduction)
+* [Basic Data Types](#basic-data-types)
+<!--
+* [Strings](#strings)
+* [Sets](#sets)
+* [Math](#math)
+* [Itertools](#itertools)
+* [Collections](#collections)
+* [Date and Time](#date-and-time)
+* [Errors and Exceptions](#errors-and-exceptions)
+* [Classes](#classes)
+* [Built-Ins](#built-ins)
+* [Python Functionals](#python-functionals)
+* [Regex and Parsing](#regex-and-parsing)
+* [XML](#xml)
+* [Closures and Decorators](#closures-and-decorators)
+* [Numpy](#numpy)
+* [Debugging](#debugging)
+-->
 
 </details>
 
@@ -161,9 +179,17 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 
+### Strings
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
 ## Python
 
-### Basic
+### Introduction
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/akrishna5/HackerrankPracticeProblems/blob/main/Python/1.%20BASIC/01.%20Finding%20The%20Percentage.py)| 10 | Easy |
