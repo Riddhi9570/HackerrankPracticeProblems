@@ -188,6 +188,7 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/Exoutia/HackerrankPracticeProblems/blob/Exoutia/Python/Introduction/Division.py) | 10 | Easy |
 
 ### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
