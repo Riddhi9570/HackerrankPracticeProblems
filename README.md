@@ -190,6 +190,7 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/Exoutia/HackerrankPracticeProblems/blob/Exoutia/Python/Introduction/Division.py) | 10 | Easy |
+| 02. | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/write-a-function/submissions/code/293547749) | 10 | Medium |
 
 ### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
