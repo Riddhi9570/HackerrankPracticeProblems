@@ -1,3 +1,8 @@
+# Problem : https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
+# Score : 10
+# Difficulty : Medium
+
+
 def is_leap(year):
     leap = False
     if not year % 100 :
