@@ -119,6 +119,7 @@
 | 03. | [Occupations ](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/03.%20Occupations.sql) | 30 | Medium |
 | 04. | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/04.%20Binary%20Tree%20Nodes.sql) | 30 | Medium |
 | 05. | [New Companies]( https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/05.%20New%20Companies.sql) | 30 | Medium |
+
 ### Aggregation
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
@@ -156,6 +157,8 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/01.%20SQL%20Project%20Planning.sql) | 40 | Medium |
+| 02. | [SQL Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/02.%20SQL%20Symmetric%20Pairs.sql) | 40 | Medium |
+| 03. | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/03.%2015%20Days%20of%20Learning%20SQL.sql) | 40 | Medium |
 
 ### Alternative Queries
 | S.No. | Problem | Solution | Score | Difficulty |
@@ -168,19 +171,46 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
-| 02. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/293511119) | 10 | Easy |
+| 01. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Arrays%20Introduction.cpp) | 10 | Easy |
+| 02. | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Basic%20Data%20Types.cpp) | 10 | Easy |
+| 03. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Conditional%20Statements.cpp) | 10 | Easy |
+| 04. | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/For%20Loop.cpp) | 10 | Easy |
+| 05. | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Pointer.cpp) | 10 | Easy |
+| 06. | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Say_Hello_World_With_C%2B%2B.cpp) | 05 | Easy |
+| 07. | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Variable%20Sized%20Arrays.cpp) | 30 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/293651711) | 10 | Easy |
+| 01. | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/02.%20Strings/Attribute%20Parser.cpp) | 35 | Medium |
+| 02. | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/02.%20Strings/Strings.cpp) | 10 | Easy |
+
+### Classes
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/03.%20Classes/Class.cpp) | 10 | Easy |
 
 ### STL
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [Solution](https://www.hackerrank.com/challenges/vector-sort/submissions/code/293604415) | 10 | Easy |
-| 02. | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem?isFullScreen=false) | [Solution](https://www.hackerrank.com/challenges/deque-stl/submissions/code/293578415) | 50 | Medium |
+| 01. | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem?isFullScreen=false) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Deque-STL.cpp) | 50 | Medium |
+| 02. | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Sets-STL.cpp) | 15 | Easy |
+| 03. | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Vector-Sort.cpp) | 10 | Easy |
+
+### Inheritance
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/05.%20Inheritance/Multi_Level_Inheritance.cpp) | 50 | Medium |
+| 02. | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/05.%20Inheritance/Rectangle%20Area.cpp) | 25 | Easy |
+
+### Debugging
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Other Concepts
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/07.%20Other%20Concepts/Operator%20Overloading.cpp) | 25 | Medium |
 
 ## Java
 
