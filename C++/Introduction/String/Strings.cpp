@@ -1,3 +1,6 @@
+// problem: https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/293651711
+// Score: 10.0
+// Difficulty: Easy
 
 #include <iostream>
 #include <string>
