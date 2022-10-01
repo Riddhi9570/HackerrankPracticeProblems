@@ -1,4 +1,6 @@
 //Hackerrank Problem link: https://www.hackerrank.com/challenges/variable-sized-arrays/problem
+//Score: 30.0
+//Difficulty level: Easy
 
 #include <cmath>
 #include <cstdio>
