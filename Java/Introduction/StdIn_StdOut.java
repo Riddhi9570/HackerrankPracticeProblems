@@ -1,3 +1,8 @@
+// Problem - https://www.hackerrank.com/challenges/java-stdin-stdout/problem
+// Score - 10
+// Difficulty - Easy
+
+
 import java.util.Scanner;
 
 public class Solution {
