@@ -12,7 +12,7 @@ This submission will close the issue #17
 
 ### Hacktoberfest Contributor:
 
-* [ ] Are you a hacktoberfest contributor?
+* [Y] Are you a hacktoberfest contributor?
 
 ### Hackerrank Problem Link:
 https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
