@@ -174,6 +174,7 @@
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/293651711) | 10 | Easy |
 
 ### STL
 | S.No. | Problem | Solution | Score | Difficulty |
