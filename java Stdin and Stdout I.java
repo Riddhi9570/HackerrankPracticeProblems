@@ -1,3 +1,4 @@
+ 
 #Problem-java Stdin and Stdout I
 #Score-5.0
 #Difficulty-Easy
