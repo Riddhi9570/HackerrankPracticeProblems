@@ -179,11 +179,25 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 1 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
+| 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution]() | 3 | Easy |
+| 2 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution]() | 10 | Easy |
+| 3 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution]() | 10 | Easy |
+| 4 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
+| 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution]() | 10 | Easy |
+| 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution]() | 10 | Easy |
+| 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Solution]() | 10 | Easy |
+| 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution]() | 10 | Easy |
+| 9 | [Java End-of-File](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution]() | 10 | Easy |
+| 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution]() | 10 | Easy |
+| 11 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solution]() | 10 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 1 | [Java String Intorduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution]() | 5 | Easy |
+| 2 | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution]() | 5 | Easy |
+| 3 | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution]() | 10 | Easy |
+| 4 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution]() | 10 | Easy |
 
 ## Python
 
