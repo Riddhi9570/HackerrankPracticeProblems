@@ -181,6 +181,7 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 1 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
+| 2 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/Introduction/DateTime.java) | 15 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
