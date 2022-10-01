@@ -178,6 +178,7 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 1 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
