@@ -1,3 +1,8 @@
+// Problem Link :https://www.hackerrank.com/challenges/rectangle-area/problem
+//Difficulty : Easy
+//Max Score:25
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
