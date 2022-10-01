@@ -167,9 +167,10 @@
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
-| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
-| 02. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/293511119) | 10 | Easy |
 |--|--|--|--|--|
+| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
+| 02. | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/6d3a4297d8dc410f65ebf5eadf8158754d383083/C++/Introduction/Basic%20Data%20Types.cpp) | 10 | Easy |
+
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
