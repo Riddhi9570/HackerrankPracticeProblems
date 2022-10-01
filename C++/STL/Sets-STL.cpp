@@ -1,3 +1,9 @@
+/*
+Sets-STL
+Category: C++ STL
+Difficulty: Easy
+Max Score: 15
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
