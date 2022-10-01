@@ -1,5 +1,6 @@
 // problem link -> https://www.hackerrank.com/challenges/java-if-else/problem
-
+// Score: 10
+// Difficulty : Easy
 
 
 
