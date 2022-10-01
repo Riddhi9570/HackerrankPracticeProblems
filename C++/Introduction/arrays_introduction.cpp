@@ -1,4 +1,6 @@
 // below is the solution to arrays introduction problem: https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true
+// Score:10
+// Difficulty: Easy
 #include <iostream>
 
 using namespace std;
