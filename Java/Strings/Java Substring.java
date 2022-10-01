@@ -1,3 +1,8 @@
+
+#Problem Link-https://www.hackerrank.com/challenges/java-substring/problem
+#score-5.0
+#Difficulty-Easy
+
 import java.io.*;
 import java.util.*;
 
