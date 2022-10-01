@@ -4,9 +4,9 @@
 # Hackerrank Practice Problems
 
 - This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL, C++, Java or Python.
-- If you are interested in adding more hackerrank problem solutions, feel free to contribute.
-- If you feel this helpful please press the star.
-- If you are a hacktoberfest contributor, claim only one issue at a time from this repository and maximum of total two issues for hacktoberfest contribution.
+- If you are interested in adding more Hackerrank problem solutions, please feel free to contribute.
+- If you feel this repo is helpful for you, please do star it.
+- If you are a hacktoberfest contributor, claim only one issue at a time from this repository and a maximum of two issues for hacktoberfest contribution.
 - Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
 - Happy Coding 🥳!
 
@@ -167,6 +167,8 @@
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
+| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
+| 02. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/293511119) | 10 | Easy |
 |--|--|--|--|--|
 
 ### Strings
@@ -178,6 +180,7 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 1 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
@@ -188,8 +191,11 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/Exoutia/HackerrankPracticeProblems/blob/Exoutia/Python/Introduction/Division.py) | 10 | Easy |
+| 02. | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/write-a-function/submissions/code/293547749) | 10 | Medium |
 
 ### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/akrishna5/HackerrankPracticeProblems/blob/main/Python/1.%20BASIC/01.%20Finding%20The%20Percentage.py)| 10 | Easy |
+| 02. | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Python/Basic%20Data%20Types/ListComprehensions.py) | 10 | Easy |
