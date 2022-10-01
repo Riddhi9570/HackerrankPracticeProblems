@@ -168,6 +168,7 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 | 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
+| 02. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/293511119) | 10 | Easy |
 |--|--|--|--|--|
 
 ### Strings
