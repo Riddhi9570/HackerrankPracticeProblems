@@ -194,3 +194,4 @@
 ### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Python/Basic%20Data%20Types/ListComprehensions.py) | 10 | Easy |
