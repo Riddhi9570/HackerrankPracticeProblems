@@ -2,7 +2,6 @@
 // Score - 15
 // Difficulty - Easy
 
-
 import java.util.*;
 import java.text.*;
 
