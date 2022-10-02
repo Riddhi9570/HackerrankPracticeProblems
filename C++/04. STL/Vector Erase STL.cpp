@@ -1,7 +1,7 @@
 
--- # Problem: https://www.hackerrank.com/challenges/vector-erase/problem
--- # Score: 10
--- # Difficulty : Easy
+// Problem: https://www.hackerrank.com/challenges/vector-erase/problem
+// Score: 10
+// Difficulty : Easy
 
 #include <cmath>
 #include <cstdio>
