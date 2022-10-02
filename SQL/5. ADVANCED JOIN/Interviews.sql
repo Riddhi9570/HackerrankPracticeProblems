@@ -1,3 +1,22 @@
+--PROBLEM LINK
+--https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true
+
+--PROBLEM NAME
+--Interviews
+
+--LANGUAGE
+--SQL
+
+--SUBDOMAIN
+--Advanced Join
+
+--MAX SCORE
+--50
+
+--DIFFICULTY
+--Hard
+
+
 WITH total_submit as (
 
     SELECT
