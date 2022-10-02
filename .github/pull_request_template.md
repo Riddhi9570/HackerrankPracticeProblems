@@ -1,9 +1,13 @@
 ### Issue Number:
 
-This submission will close the issue #<!--Issue Number-->
+This submission will close the issue #<!--Issue Number without giving space-->
 
 ### Submissions Checklist:
 
+<!-- Dont know how to mark a checkbox?
+Use [x] for marking a checkbox. -->
+
+* [ ] This issue was assigned to you.
 * [ ] Have you followed the guidelines in [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md)?
 * [ ] Have you checked there aren't other open [Pull Requests](https://github.com/Riddhi9570/HackerrankPracticeProblems/pulls) for the same hackerrank problem?
 * [ ] Have you successfully submitted your code in hackerrank?
