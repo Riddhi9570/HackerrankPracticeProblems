@@ -206,6 +206,7 @@
 ### Debugging
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [CPP Exception Handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/cpp-exception-handling/submissions/code/293685641) | 20 | Medium |
 
 ### Other Concepts
 | S.No. | Problem | Solution | Score | Difficulty |
