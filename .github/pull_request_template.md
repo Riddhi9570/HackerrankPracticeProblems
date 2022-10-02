@@ -4,8 +4,8 @@ This submission will close the issue #<!--Issue Number without giving space-->
 
 ### Submissions Checklist:
 
-<!-- Dont know how to mark a checkbox?
-Use [x] for marking a checkbox. -->
+<!-- Don't know how to mark a checkbox?
+Use [x] for marking a checkbox with no space inside the brackets -->
 
 * [ ] This issue was assigned to you.
 * [ ] Have you followed the guidelines in [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md)?
