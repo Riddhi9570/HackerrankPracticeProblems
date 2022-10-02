@@ -205,6 +205,7 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [CPP Exception Handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/06.%20Debugging/CPP%20Exception%20Handling.cpp) | 20 | Medium |
+| 02. | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/overloading-ostream-operator/submissions/code/293723048) | 20 | Medium |
 
 ### Other Concepts
 | S.No. | Problem | Solution | Score | Difficulty |
