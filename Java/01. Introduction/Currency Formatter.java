@@ -1,3 +1,8 @@
+// Problem - https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true
+// Score - 15
+// Difficulty - Easy
+
+
 import java.util.*;
 import java.text.*;
 
