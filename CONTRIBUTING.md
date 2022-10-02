@@ -56,23 +56,29 @@ it is an Issue or a Pull Request.
 7. Don't create issues that are **already listed**.
 8. Please don't pick up an issue already assigned to someone else. Work on the issues after it gets **assigned to you**.
 9. Create your file in an appropriate folder with appropriate name and extension.
-10. When you are adding solution for a hackerrank problem, add these lines at the top your solution:
-  - `-- # Problem :` < problem link >
-    <br> For example, <br> -- # Problem : https://www.hackerrank.com/challenges/weather-observation-station-8/problem 
-  - `-- # Score :` < Maximum score for that problem >
-    <br> For example, <br> -- # Score : 20 
+10. When you are adding solution for a hackerrank problem, add these comments at the top your solution:
+  - `-- # Problem Link :` < problem link >
+    <br> For example, <br> -- # Problem Link: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+  - `-- # Problem :` < problem name >
+    <br> For example, <br> -- # Problem : Multi Level Inheritance
+  - `-- # Language :` < programming language >
+    <br> For example, <br> -- # Language : C++
+  - `-- # Subdomain :` < subdomain of problem in hackerrank >
+    <br> For example, <br> -- # Subdomain : Inheritance
+  - `-- # Max Score :` < Maximum score for that problem >
+    <br> For example, <br> -- # Max Score : 25 
   - `-- # Difficulty :` < Easy/Medium/Hard >
     <br> For example, <br> -- # Difficulty : Easy
 11. It would be appreciated if you add approach and notes to your solution (especially for difficult problems)- [Example 1](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/1.%20BASIC%20SELECT/10.%20Weather%20Observation%20Station%205.sql), [Example 2](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/3.%20AGGREGATION/17.%20Weather%20Observation%20Station%2020.sql).
 12. Create a pull request and also give your hackerrank submission link in the description so that it can be easily reviewed and merged.
 13. Pull requests will be merged after being **reviewed** by a mentor or PA.
-14. After your PR has been merged, please update [README.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/README.md) as follows:
+<!--14. After your PR has been merged, please update [README.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/README.md) as follows:
   - Find the appropriate position in Readme.md for adding your problem details. 
   - Syntax :
     ` | S.No. | [Problem Name](problem link) | [Solution](github link to the solution) | Score | Difficulty (Easy/Medium/Hard) |`
     <br> For example, <br> | 03. | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/1.%20BASIC%20SELECT/03.%20Select%20All.sql) | 10 | Easy |
-  - If you have added a new folder (for new language or new subdomain), then follow the pattern given in README.md and update it accordingly.
-15. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
+  - If you have added a new folder (for new language or new subdomain), then follow the pattern given in README.md and update it accordingly. -->
+14. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
 
 ### 🧲Pull Requests Review Criteria
 
