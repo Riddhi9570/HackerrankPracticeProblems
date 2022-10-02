@@ -173,6 +173,7 @@
 | 05. | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Pointer.cpp) | 10 | Easy |
 | 06. | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Say_Hello_World_With_C%2B%2B.cpp) | 05 | Easy |
 | 07. | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Variable%20Sized%20Arrays.cpp) | 30 | Easy |
+| 08. | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Input%20and%20Output.cpp) | 05 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
