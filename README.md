@@ -268,3 +268,4 @@
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [sWAP CASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/swap-case/submissions/code/293772315) | 10 | Easy |
