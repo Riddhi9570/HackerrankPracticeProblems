@@ -1,3 +1,10 @@
+// Problem : https://www.hackerrank.com/challenges/cpp-exception-handling/problem?isFullScreen=true
+// Problem Name : CPP Exception Handling
+// Language : C++
+// Subdomain : Debugging
+// Max Score : 20
+// Difficulty : Medium
+
 #include <iostream>
 #include <stdexcept>
 
