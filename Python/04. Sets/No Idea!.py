@@ -1,3 +1,10 @@
+ #Problem Link : https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true
+ # Problem : No Idea!
+ # Language : Python
+ # Subdomain : Sets
+ # Max Score : 50
+ # Difficulty : Medium
+
 io = input().split()
 m = int(io[0])
 n = int(io[1])
