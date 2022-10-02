@@ -1,3 +1,8 @@
+// Problem: https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true
+// Max Score: 10
+// Difficulty: Easy
+// Language: Java
+
 import java.io.*;
 import java.util.*;
 
