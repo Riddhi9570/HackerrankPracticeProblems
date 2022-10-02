@@ -1,3 +1,7 @@
+// Problem Link :https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem?isFullScreen=true
+// Score: 10
+// Difficulty: Easy
+
 #include <sstream>
 #include <vector>
 #include <iostream>
