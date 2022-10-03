@@ -2,16 +2,15 @@
 
 Provide your hackerrank problem link here.
 
+### Language
+
+If you are contributing to data structures or algorithms problem, which programming language will you use?
+
 ### Issue Checklist
 
-* [ ] If you have previously contributed to this repo, you declare that you have not made a pull request for more than one issue in this repo till now.
-* [ ] Your forked repo is up-to-date with the the origin remote.
 * [ ] Have you checked that the hackerrank problem you are raising is not already present in the repo?
 * [ ] Have you checked that the hackerrank problem you are raising is not raised by or assigned to another contributor?
-
-### Hacktoberfest Contributor
-
-* [ ] Are you a Hacktoberfest Contributor?
+* [ ] Have you read the [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) file?
 
 ### Any other Changes?
 
