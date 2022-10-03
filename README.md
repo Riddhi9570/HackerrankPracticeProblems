@@ -52,8 +52,8 @@
 
 <summary> Java </summary>
 
-* [Introduction](#introduction)
-* [Strings](#strings)
+* [Introduction](#introduction-1)
+* [Strings](#strings-1)
 * [BigNumber](#bignumber)
 * [Data Structures](#data-structures)
 * [Object Oriented Programming](#object-oriented-programming)
@@ -67,9 +67,9 @@
 
 <summary> Python </summary>
 
-* [Introduction](#introduction)
+* [Introduction](#introduction-2)
 * [Basic Data Types](#basic-data-types)
-* [Strings](#strings)
+* [Strings](#strings-2)
 * [Sets](#sets)
 * [Math](#math)
 * [Itertools](#itertools)
