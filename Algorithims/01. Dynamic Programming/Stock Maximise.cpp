@@ -1,3 +1,7 @@
+// Problem Link :https://www.hackerrank.com/challenges/stockmax/problem?isFullScreen=true
+// Score: 50
+// Difficulty: Medium
+
 #include <bits/stdc++.h>
 
 using namespace std;
