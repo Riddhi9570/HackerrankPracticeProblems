@@ -1,3 +1,7 @@
+// Problem Link :https://www.hackerrank.com/challenges/equal/problem?isFullScreen=true
+// Score: 30
+// Difficulty: Medium
+
 #include<cassert>
 #include<iostream>
 #include<algorithm>
