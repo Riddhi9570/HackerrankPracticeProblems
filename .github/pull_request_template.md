@@ -1,6 +1,6 @@
 ### Issue Number:
 
-This submission will close the issue #<!--Issue Number without giving space-->
+This submission closes #<!--Issue Number without giving space--> issue
 
 ### Submissions Checklist:
 
