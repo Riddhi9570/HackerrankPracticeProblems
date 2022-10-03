@@ -14,10 +14,6 @@ Use [x] for marking a checkbox with no space inside the brackets -->
 * [ ] Is your file name exactly same as the problem name of hackerrank, followed by the proper extension?
 * [ ] Have you ensured that you have put the files in appropriate folders? (Folders are made according to the subdomain of hackerrank practice problems).
 
-### Hacktoberfest Contributor:
-
-* [ ] Are you a hacktoberfest contributor?
-
 ### Hackerrank Problem Link:
 
 <!-- Provide your hacckerrank problem link here-->
