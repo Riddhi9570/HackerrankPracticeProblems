@@ -43,6 +43,13 @@
 
 <details>
 
+<summary> Algorithims </summary>
+* [Dynamic Programming](#dynamic-programming)
+
+</details>
+
+<details>
+
 <summary> Java </summary>
 
 * [Introduction](#introduction-1)
@@ -213,6 +220,18 @@
 |--|--|--|--|--|
 | 01. | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/07.%20Other%20Concepts/Operator%20Overloading.cpp) | 25 | Medium |
 
+## Algorithims
+
+### Dynamic programming
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true) | [Solution]() | 60 | Medium |
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 02. | [Equal](https://www.hackerrank.com/challenges/equal/problem?isFullScreen=true) | [Solution]() | 30 | Medium |
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 03. | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem?isFullScreen=true) | [Solution]() | 50 | Medium |
 ## Java
 
 ### Introduction
