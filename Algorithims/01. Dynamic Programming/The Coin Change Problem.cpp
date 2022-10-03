@@ -1,3 +1,7 @@
+// Problem Link :https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true
+// Score: 60
+// Difficulty: Medium
+
 #include<bits/stdc++.h>
 using namespace std;
 
