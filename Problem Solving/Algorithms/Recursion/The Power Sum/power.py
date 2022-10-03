@@ -1,3 +1,8 @@
+## Problem Link = > https://www.hackerrank.com/challenges/the-power-sum/problem?h_r=profile
+## Problem Name => The Power Sum
+## Language => Python
+## Max Score => 20
+## Difficulty => Medium
 #!/bin/python3
 
 import math
