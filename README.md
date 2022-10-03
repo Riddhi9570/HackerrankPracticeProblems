@@ -33,13 +33,11 @@
 
 * [Introduction](#introduction)
 * [Strings](#strings)
-<!--
 * [Classes](#classes)
 * [STL](#stl)
 * [Inheritance](#inheritance)
 * [Debugging](#debugging)
 * [Other Concepts](#other-concepts)
--->
 
 </details>
 
@@ -48,14 +46,13 @@
 <summary> Java </summary>
 
 * [Introduction](#introduction)
-<!--
 * [Strings](#strings)
 * [BigNumber](#bignumber)
 * [Data Structures](#data-structures)
 * [Object Oriented Programming](#object-oriented-programming)
 * [Exception Handling](#exception-handling)
 * [Advanced](#advanced)
--->
+
 
 </details>
 
@@ -65,7 +62,6 @@
 
 * [Introduction](#introduction)
 * [Basic Data Types](#basic-data-types)
-<!--
 * [Strings](#strings)
 * [Sets](#sets)
 * [Math](#math)
@@ -81,7 +77,6 @@
 * [Closures and Decorators](#closures-and-decorators)
 * [Numpy](#numpy)
 * [Debugging](#debugging)
--->
 
 </details>
 
@@ -119,6 +114,7 @@
 | 03. | [Occupations ](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/03.%20Occupations.sql) | 30 | Medium |
 | 04. | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/04.%20Binary%20Tree%20Nodes.sql) | 30 | Medium |
 | 05. | [New Companies]( https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/2.%20ADVANCED%20SELECT/05.%20New%20Companies.sql) | 30 | Medium |
+
 ### Aggregation
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
@@ -156,6 +152,8 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/01.%20SQL%20Project%20Planning.sql) | 40 | Medium |
+| 02. | [SQL Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/02.%20SQL%20Symmetric%20Pairs.sql) | 40 | Medium |
+| 03. | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/SQL/5.%20ADVANCED%20JOIN/03.%2015%20Days%20of%20Learning%20SQL.sql) | 40 | Medium |
 
 ### Alternative Queries
 | S.No. | Problem | Solution | Score | Difficulty |
@@ -168,41 +166,106 @@
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/293488598) | 10 | Easy |
-| 02. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/293511119) | 10 | Easy |
+| 01. | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Arrays%20Introduction.cpp) | 10 | Easy |
+| 02. | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Basic%20Data%20Types.cpp) | 10 | Easy |
+| 03. | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Conditional%20Statements.cpp) | 10 | Easy |
+| 04. | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/For%20Loop.cpp) | 10 | Easy |
+| 05. | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Pointer.cpp) | 10 | Easy |
+| 06. | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Say_Hello_World_With_C%2B%2B.cpp) | 05 | Easy |
+| 07. | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Variable%20Sized%20Arrays.cpp) | 30 | Easy |
+| 08. | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/01.%20Introduction/Input%20and%20Output.cpp) | 05 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/02.%20Strings/Attribute%20Parser.cpp) | 35 | Medium |
+| 02. | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/02.%20Strings/StringStream.cpp) | 10 | Easy |
+| 03. | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/02.%20Strings/Strings.cpp) | 10 | Easy |
+
+### Classes
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/03.%20Classes/Class.cpp) | 10 | Easy |
+| 02. | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/03.%20Classes/Structs.cpp) | 10 | Easy |
 
 ### STL
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [Solution](https://www.hackerrank.com/challenges/vector-sort/submissions/code/293604415) | 10 | Easy |
-| 02. | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem?isFullScreen=false) | [Solution](https://www.hackerrank.com/challenges/deque-stl/submissions/code/293578415) | 50 | Medium |
+| 01. | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem?isFullScreen=false) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Deque-STL.cpp) | 50 | Medium |
+| 02. | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Lower%20Bound-STL.cpp) | 15 | Easy |
+| 03. | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Sets-STL.cpp) | 15 | Easy |
+| 04. | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/04.%20STL/Vector-Sort.cpp) | 10 | Easy |
+
+### Inheritance
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/05.%20Inheritance/Multi_Level_Inheritance.cpp) | 50 | Medium |
+| 02. | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/05.%20Inheritance/Rectangle%20Area.cpp) | 25 | Easy |
+
+### Debugging
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [CPP Exception Handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/06.%20Debugging/CPP%20Exception%20Handling.cpp) | 20 | Medium |
+| 02. | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/overloading-ostream-operator/submissions/code/293723048) | 20 | Medium |
+
+### Other Concepts
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/C%2B%2B/07.%20Other%20Concepts/Operator%20Overloading.cpp) | 25 | Medium |
 
 ## Java
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 1 | [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution]() | 10 | Easy |
-| 2 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/Introduction/DateTime.java) | 15 | Easy |
+| 01. | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Java%20Date%20and%20Time.java) | 15 | Easy |
+| 02. | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Java%20If-Else.java) | 10 | Easy |
+| 03. | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Java%20Int%20to%20String.java) | 10 | Easy |
+| 04. | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Java%20Loops%20II.java) | 10 | Easy |
+| 05. | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Java%20Stdin%20and%20Stdout%20I.java) | 05 | Easy |
+| 06. | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/Introduction/DateTime.java) | 10 | Easy |
+| 07. | [Welcome To Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/01.%20Introduction/Welcome%20To%20Java.java) | 03 | Easy |
 
 ### Strings
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
+| 01. | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/02.%20Strings/Java%20Substring.java) | 05 | Easy |
+
+### BigNumber
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+
+### Data Structures
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/04.%20Data%20Structures/Java%201D%20Array.java) | 05 | Easy |
+| 02. | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Java/04.%20Data%20Structures/Java%20Stack.java) | 20 | Medium |
+
+### Object Oriented Programming
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem) | [Solution]() | 10 | Easy |
+| 02. | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution]() | 05 | Easy |
+| 03. | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | [Solution]() | 10 | Easy |
 
 ## Python
 
 ### Introduction
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/Exoutia/HackerrankPracticeProblems/blob/Exoutia/Python/Introduction/Division.py) | 10 | Easy |
-| 02. | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/write-a-function/submissions/code/293547749) | 10 | Medium |
+| 01. | [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution]()| 10 | Easy |
+| 02. | [Python Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution]() | 10 | Easy |
+| 03. | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution]() | 10 | Easy |
+| 04. | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution]() | 10 | Medium |
 
 ### Basic Data Types
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/akrishna5/HackerrankPracticeProblems/blob/main/Python/1.%20BASIC/01.%20Finding%20The%20Percentage.py)| 10 | Easy |
-| 02. | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Python/Basic%20Data%20Types/ListComprehensions.py) | 10 | Easy |
+| 01. | [Finding the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution]()| 10 | Easy |
+| 02. | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution]()| 10 | Easy |
+| 03. | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/Python/Basic%20Data%20Types/ListComprehensions.py) | 10 | Easy |
+
+### Strings
+| S.No. | Problem | Solution | Score | Difficulty |
+|--|--|--|--|--|
+| 01. | [sWAP CASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](https://www.hackerrank.com/challenges/swap-case/submissions/code/293772315) | 10 | Easy |
