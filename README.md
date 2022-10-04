@@ -3,10 +3,9 @@
 
 # Hackerrank Practice Problems
 
-- This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL, C++, Java or Python.
+- This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL, C++, Java Python and Problem Solving (Data Structures and Algorithms).
 - If you are interested in adding more Hackerrank problem solutions, please feel free to contribute.
 - If you feel this repo is helpful for you, please do star it.
-- If you are a hacktoberfest contributor, claim only one issue at a time from this repository and a maximum of two issues for hacktoberfest contribution.
 - Kindly follow [CODE_OF_CONDUCT.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/Riddhi9570/HackerrankPracticeProblems/blob/main/CONTRIBUTING.md) before contributing.
 - Happy Coding 🥳!
 
@@ -226,12 +225,9 @@
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true) | [Solution]() | 60 | Medium |
-| S.No. | Problem | Solution | Score | Difficulty |
-|--|--|--|--|--|
 | 02. | [Equal](https://www.hackerrank.com/challenges/equal/problem?isFullScreen=true) | [Solution]() | 30 | Medium |
-| S.No. | Problem | Solution | Score | Difficulty |
-|--|--|--|--|--|
 | 03. | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem?isFullScreen=true) | [Solution]() | 50 | Medium |
+
 ## Java
 
 ### Introduction
