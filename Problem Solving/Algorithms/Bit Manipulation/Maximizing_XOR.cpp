@@ -1,3 +1,9 @@
+/*
+Maximizing_XOR
+Category: Bit Manipulation
+Difficulty: Easy
+Max Score: 30
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
